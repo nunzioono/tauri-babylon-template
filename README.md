@@ -1,6 +1,10 @@
-# Tauri + Vanilla
+# Tauri + Vanilla + BabylonJS
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+This template should help get you started developing with Tauri and BabylonJS in vanilla HTML, CSS and Javascript.
+
+## Prerequisites
+
+It's mandatory to run this project to have installed on your device git, cargo and nodejs (npm).
 
 ## Recommended IDE Setup
 
