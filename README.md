@@ -1,4 +1,4 @@
-# Tauri + Vanilla + BabylonJS
+# Tauri + Vanilla JS + Vite + BabylonJS
 
 This template should help get you started developing with Tauri and BabylonJS in vanilla HTML, CSS and Javascript.
 

@@ -1,15 +1,24 @@
 {
-  "name": "prova",
+  "name": "tauri-app",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
     "tauri": "tauri"
   },
-  "devDependencies": {
-    "@tauri-apps/cli": "^1.5.8"
-  },
   "dependencies": {
-    "babylonjs": "^6.43.0"
+    "@tauri-apps/api": "^1"
+  },
+  "devDependencies": {
+    "@babylonjs/core": "^6.46.0",
+    "@babylonjs/gui": "^6.46.0",
+    "@babylonjs/inspector": "^6.46.0",
+    "@babylonjs/loaders": "^6.46.0",
+    "@tauri-apps/cli": "^1",
+    "typescript": "^5.0.2",
+    "vite": "^5.0.0"
   }
 }
